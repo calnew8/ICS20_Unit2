@@ -1,0 +1,1 @@
+print("A slash is /\nwhile\na backslash is \\")
